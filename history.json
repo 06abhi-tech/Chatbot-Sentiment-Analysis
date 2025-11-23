@@ -1,0 +1,50 @@
+[
+    {
+        "speaker": "User",
+        "text": "hey",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998,
+        "emotion": "neutral",
+        "emotion_score": 0.805
+    },
+    {
+        "speaker": "Bot",
+        "text": "Great! That’s good to hear. Want to share more?",
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.998,
+        "emotion": "neutral",
+        "emotion_score": 0.805
+    },
+    {
+        "speaker": "User",
+        "text": "bad",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -1.0,
+        "emotion": "disgust",
+        "emotion_score": 0.572
+    },
+    {
+        "speaker": "Bot",
+        "text": "That sounds unpleasant. What happened exactly?",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -1.0,
+        "emotion": "disgust",
+        "emotion_score": 0.572
+    },
+    {
+        "speaker": "User",
+        "text": "its too hot",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -0.998,
+        "emotion": "sadness",
+        "emotion_score": 0.434
+    },
+    {
+        "speaker": "Bot",
+        "text": "I'm here for you. Want to talk about what's making you feel sad?",
+        "sentiment": "NEGATIVE",
+        "sentiment_score": -0.998,
+        "emotion": "sadness",
+        "emotion_score": 0.434
+    }
+]
