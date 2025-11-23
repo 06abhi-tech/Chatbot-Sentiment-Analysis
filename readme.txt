@@ -13,6 +13,9 @@ The bot replies based on the user's mood, saves conversation history, and provid
 
 How to Run:
 
+Setup Environment:
+python -m venv .venv
+
 Install all dependencies:
 pip install -r requirements.txt
 
@@ -121,3 +124,4 @@ FlowChart:
      Continue or Exit?  
            |
      Yes / No
+
